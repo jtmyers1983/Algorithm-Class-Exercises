@@ -1,0 +1,10 @@
+Study guide for Exam 2:
+
+- Substitition (E)
+- Arithmetic sum, geometric sum (E)
+- Master's theorem (E)
+- Derivation of running time equations of iterative and recursive functions.  (E)
+- Design and implement iterative solutions (E)
+- Design and implement divide and conquer solutions (H)
+- Caching functions (E)
+- Ability to detect "all possibilities" to design dynamic programming solutions. (H)
